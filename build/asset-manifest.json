@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8f2ac7e2.css",
+    "main.js": "/react-portfolio/static/js/main.0c507502.js",
+    "static/media/earth.jpg": "/react-portfolio/static/media/earth.a08c82a61f5bf923991e.jpg",
+    "static/media/stock5.PNG": "/react-portfolio/static/media/stock5.41e72a0b873ace9379e9.PNG",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/stock3.PNG": "/react-portfolio/static/media/stock3.db5b6c87e9199e006f5e.PNG",
+    "static/media/ionicons.svg?v=2.0.0": "/react-portfolio/static/media/ionicons.b45d332f6829d6813600.svg",
+    "static/media/todolist.PNG": "/react-portfolio/static/media/todolist.33f675a1843caca4a5b4.PNG",
+    "static/media/qote.PNG": "/react-portfolio/static/media/qote.288473abe8ea10699625.PNG",
+    "static/media/ionicons.ttf?v=2.0.0": "/react-portfolio/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/dashboard.PNG": "/react-portfolio/static/media/dashboard.fc6710e4a57798bc5806.PNG",
+    "static/media/female.png": "/react-portfolio/static/media/female.5556581643d79f1d3068.png",
+    "static/media/ionicons.eot?v=2.0.0": "/react-portfolio/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/react-portfolio/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/cals.PNG": "/react-portfolio/static/media/cals.bce836852bfebce2c8b0.PNG",
+    "static/media/myImage.png": "/react-portfolio/static/media/myImage.d37bb1c946c59794414c.png",
+    "static/media/femaleagain.png": "/react-portfolio/static/media/femaleagain.f0fbc0017a48cc68f8e1.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.8f2ac7e2.css.map": "/react-portfolio/static/css/main.8f2ac7e2.css.map",
+    "main.0c507502.js.map": "/react-portfolio/static/js/main.0c507502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f2ac7e2.css",
+    "static/js/main.0c507502.js"
+  ]
+}
